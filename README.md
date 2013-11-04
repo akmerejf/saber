@@ -1,4 +1,0 @@
-saber
-=====
-
-Revista Saber
